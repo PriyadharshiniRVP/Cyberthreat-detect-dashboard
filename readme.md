@@ -1,8 +1,8 @@
 ## CyberThreat Detection Dashboard
--This project focuses on developing an interactive, data-driven dashboard 
+  - This project focuses on developing an interactive, data-driven dashboard 
 that provides cybersecurity analysts with immediate, visual understanding of the threat 
 landscape
--By aggregating and visualizing simulated security incident data (e.g., from CVE 
+ - By aggregating and visualizing simulated security incident data (e.g., from CVE 
 feeds or attack logs), the solution will clarify attack patterns, track temporal trends, and identify geographical and systemic hotspots. 
 - This enhancement will enable more proactive risk 
 mitigation, efficient resource allocation, and improved security posture by highlighting the most vulnerable areas.
